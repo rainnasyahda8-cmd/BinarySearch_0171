@@ -7,5 +7,5 @@ int x;
 
 void input()
 {
-    
+    while (true)
 }
